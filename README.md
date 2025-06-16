@@ -10,5 +10,5 @@ A Telegram bot that sends prayer times based on your real-time location. The bot
 
 You can try it here : https://t.me/flagson_bot
 
-#wanna contribute ? 
+##wanna contribute ? 
 >Open an issue and let's see what can we do 
